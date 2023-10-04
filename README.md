@@ -7,12 +7,6 @@
 </tr>
 </table>
 
-## Site
-
-### Landing Page
-
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/landing.png)
-
 
 
 
